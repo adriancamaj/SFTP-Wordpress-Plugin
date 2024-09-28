@@ -1,0 +1,15 @@
+{
+    "name": "sharkware.io/sftp-integration",
+    "description": "A WordPress plugin for SFTP integration.",
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=7.4",
+        "phpseclib/phpseclib": "^3.0",
+	"vlucas/phpdotenv": "^5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "SFTPIntegration\\": "includes/"
+        }
+    }
+}
