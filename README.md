@@ -37,7 +37,7 @@ Before you begin, ensure you have the following:
 
 ---
 ## Installation
-Follow these simple steps to install the SFTP Integration Plugin.
+Follow these simple steps to install the SFTP Wordpress Plugin.
 
 ### Step 1: Download the Plugin
 You can download the plugin from the GitHub repository.
@@ -55,7 +55,7 @@ Since the plugin uses external libraries, you'll need to install them using Comp
 - Navigate to the plugin directory:
 
   ```
-  cd sftp-integration
+  cd SFTP-Wordpress-Plugin
   ```
 - Run the following command to install dependencies:
 
@@ -219,6 +219,6 @@ This plugin is licensed under the GPL-3.0 License.
 
 ---
 
-### Thank you for choosing the SFTP Integration Plugin!
+### Thank you for choosing the SFTP Wordpress Plugin!
 
 If you find this plugin helpful, please consider giving it a ⭐ on [GitHub](https://github.com/adriancamaj/SFT-Wordpress-Plugin). Your support is appreciated!
